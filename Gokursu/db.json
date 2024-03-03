@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "categoryId": 1,
+      "uniPrice": 5000.99
+    },
+    {
+      "id": 2,
+      "productName": "Mouse",
+      "categoryId": 2,
+      "uniPrice": 5000.99
+    },
+    {
+      "id": 2,
+      "productName": "Water",
+      "categoryId": 2,
+      "uniPrice": 5000.99
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryNames": "Computers",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "categoryNames": "Mouse",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "categoryNames": "Water",
+      "postId": 3
+    }
+  ],
+  "jfklsfjls": [{}]
+}
